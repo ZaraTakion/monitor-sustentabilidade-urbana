@@ -1,5 +1,10 @@
+# Ambiente virtual
 venv/
 __pycache__/
 *.pyc
-.DS_Store
 
+# Dados grandes ou sensíveis
+data/dados.csv
+
+# Configurações do sistema
+.DS_Store
